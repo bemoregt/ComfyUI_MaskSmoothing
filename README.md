@@ -2,6 +2,8 @@
 
 A ComfyUI custom node that smooths mask contours using the **Fourier Descriptor** algorithm. It takes a mask as input, applies low-pass filtering in the frequency domain, and outputs a smoothed mask.
 
+![이미지 예시](https://github.com/bemoregt/ComfyUI_MaskSmoothing/blob/main/ScrShot%209.png)
+
 ## Example
 
 | Input Mask | Smoothed Mask (descriptors=32) |
